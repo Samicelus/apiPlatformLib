@@ -1,0 +1,26 @@
+{
+  "name": "api-platform-lib",
+  "version": "1.0.1",
+  "description": "node.js sdk for api-platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samicelus/apiPlatformLib.git"
+  },
+  "keywords": [
+    "api",
+    "platform"
+  ],
+  "author": "samicelus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Samicelus/apiPlatformLib/issues"
+  },
+  "homepage": "https://github.com/Samicelus/apiPlatformLib#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
