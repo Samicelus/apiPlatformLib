@@ -1,6 +1,6 @@
 {
   "name": "api-platform-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "node.js sdk for api-platform",
   "main": "index.js",
   "scripts": {
